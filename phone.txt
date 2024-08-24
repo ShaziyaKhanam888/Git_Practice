@@ -1,0 +1,6 @@
+'create phone'
+create touchscreen
+create home screen
+create apps
+create game
+create another features
