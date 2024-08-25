@@ -1,0 +1,6 @@
+'create game'
+play/start
+pause
+restart
+exit game
+retry
