@@ -1,0 +1,5 @@
+'create music player'
+create songs section
+create popular songs section
+play
+pause
